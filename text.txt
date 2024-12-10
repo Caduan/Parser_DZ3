@@ -1,0 +1,21 @@
+{{!
+Server configuration example
+}}
+let HOST = #(192, 168, 1, 1);
+let PORT = 8080;
+let lengh = ^[len HOST];
+
+let A = 9;
+let B = 3;
+^[sqrt A]
+^[+ A B]
+
+{{!
+User preferences example
+}}
+let SERVERS = #(server1, server2, server3)
+
+
+let IP_ADDRESSES = #(192.168.0.1, 192.168.0.2)
+
+

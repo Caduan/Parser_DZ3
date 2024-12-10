@@ -1,0 +1,19 @@
+PORT: 8080
+4
+
+A: 9
+B: 3
+3.0
+12
+
+
+let SERVERS = [server1, server2, server3]
+servers:
+  - server1"
+  - "server2"
+  - "server3"
+
+let IP_ADDRESSES = [192.168.0.1, 192.168.0.2]
+ip_addresses:
+  - 192.168.0.1
+  - 192.168.0.2
